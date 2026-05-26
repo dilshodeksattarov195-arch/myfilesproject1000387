@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentderify",
+        "uuid": 3611097,
+        "checksum": "osjfls"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
